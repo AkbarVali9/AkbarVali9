@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
                     
 
-<p align="left">I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India.I have a proven ability to solve complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code.</p>
+<p align="left">I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India.I have a proven ability to solve complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code.My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.</p>
 <p align="left"> 
   <a href="https://github.com/AkbarVali9?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AkbarVali9?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,sqlite&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,sqlite,github,expressjs,&perline=9"  />
 </p>
 <br />
 
